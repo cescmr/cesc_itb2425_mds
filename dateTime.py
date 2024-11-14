@@ -1,5 +1,5 @@
 """
-Javier Amaya Boira
+Francesc Martinez Ridao
 02/10/2023
 ASIXc M03 UF1 A2
 Exemple de manipulació de dates
